@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 check out my [website](https://www.ericpaul.me/?ref=github.com)
+
 
 <!--
 **ericpullukaran/ericpullukaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
